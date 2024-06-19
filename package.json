@@ -22,7 +22,7 @@
         "babel-register": "6.9.0",
         "body-parser": "1.10.2",
         "cors": "2.7.1",
-        "debug": "3.0.1",
+        "debug": "3.1.0",
         "email-regex": "1.0.0",
         "express": "4.19.2",
         "gulp-babel": "6.1.1",
