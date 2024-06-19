@@ -30,7 +30,7 @@
         "gulp": "3.9.0",
         "hostenv": "1.0.1",
         "opentype.js": "0.4.4",
-        "socket.io": "2.0.3",
+        "socket.io": "2.5.0",
         "superagent": "3.6.0",
         "vd": "0.1.0"
     },
